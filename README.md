@@ -5,11 +5,18 @@ Since the framework of iDevOpsCloud project is designed as micro-service and the
 ## Modules
 ### Platform
 The GUI part of iDOCloud. It contains following repostories:
-[platform_frontend](https://github.com/idevopscloud/platform_frontend)
 
-
+- [platform_frontend](https://github.com/idevopscloud/platform_frontend)
+- [platform_core](https://github.com/idevopscloud/platform_core)
+- [platform_registry](https://github.com/idevopscloud/platform_registry)
+- [application_management](https://github.com/idevopscloud/application_management)
+- [plat_account_management](https://github.com/idevopscloud/plat_account_management)
+- [plat-build](https://github.com/idevopscloud/plat-build)
 
 ### PaaS
+
+
+
 ### Monitor
 ### Deploy
 ### Docker-repos
