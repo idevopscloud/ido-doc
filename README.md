@@ -4,7 +4,7 @@ Since the framework of iDevOpsCloud project is designed as micro-service and the
 
 ## Modules
 ### Platform
-The GUI part of iDOCloud. It contains following repostories:
+The GUI module of iDOCloud. It contains following repostories:
 
 - [platform_frontend](https://github.com/idevopscloud/platform_frontend)
 - [platform_core](https://github.com/idevopscloud/platform_core)
@@ -15,8 +15,21 @@ The GUI part of iDOCloud. It contains following repostories:
 
 ### PaaS
 
+Core module of iDOCloud, it contains following repostories:
 
+- [paas-api](https://github.com/idevopscloud/paas-api)
+
+- [paas-controller](https://github.com/idevopscloud/paas-controller)
+
+- [python-kubernetes](https://github.com/idevopscloud/python-kubernetes)
+
+- [python-etcd](https://github.com/idevopscloud/python-etcd)
+
+- [yaas](https://github.com/idevopscloud/yaas)
 
 ### Monitor
+
+
+
 ### Deploy
 ### Docker-repos
